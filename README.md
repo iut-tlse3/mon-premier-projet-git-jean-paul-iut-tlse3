@@ -3,7 +3,7 @@
 ### LAST NAME : DOE
 ### First name : John
 ### TP group :
-- [ ] a
+- [X] a
 - [ ] b
 
 
